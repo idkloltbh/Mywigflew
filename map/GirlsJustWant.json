@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FGirlsJustWant_ULTRA.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FGirlsJustWant_MID.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FGirlsJustWant_LOW.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FGirlsJustWant_HIGH.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FGirlsJustWant.ogg"
+  }
+}

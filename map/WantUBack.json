@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/WantUBack/WantUBack_ULTRA.webm": "http://nicolas.ubisoft.dance/nohud/wantuback/1.webm",
+    "jmcs://jd-contents/WantUBack/WantUBack_MID.webm": "http://nicolas.ubisoft.dance/nohud/wantuback/2.webm",
+    "jmcs://jd-contents/WantUBack/WantUBack_LOW.webm": "http://nicolas.ubisoft.dance/nohud/wantuback/3.webm",
+    "jmcs://jd-contents/WantUBack/WantUBack_HIGH.webm": "http://nicolas.ubisoft.dance/nohud/wantuback/4.webm",
+    "jmcs://jd-contents/WantUBack/WantUBack.ogg": "http://nicolas.ubisoft.dance/nohud/wantuback/1.ogg"
+  }
+}

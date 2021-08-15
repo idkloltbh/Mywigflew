@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBadRomanceALT_ULTRA.webm",
+        "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBadRomanceALT_MID.webm",
+        "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBadRomanceALT_LOW.webm",
+        "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBadRomanceALT_HIGH.webm",
+        "jmcs://jd-contents/BadRomanceALT/BadRomanceALT.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBadRomanceALT.ogg"
+    }
+}

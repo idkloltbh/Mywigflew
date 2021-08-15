@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 466919,
+    "urls": {
+        "jmcs://jd-contents/GodIsAWomanALT/GodIsAWomanALT_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GodIsAWomanALT_ULTRA.webm",
+        "jmcs://jd-contents/GodIsAWomanALT/GodIsAWomanALT_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GodIsAWomanALT_MID.webm",
+        "jmcs://jd-contents/GodIsAWomanALT/GodIsAWomanALT_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GodIsAWomanALT_LOW.webm",
+        "jmcs://jd-contents/GodIsAWomanALT/GodIsAWomanALT_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GodIsAWomanALT_HIGH.webm",
+        "jmcs://jd-contents/GodIsAWomanALT/GodIsAWomanALT.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GodIsAWomanALT.ogg"
+    }
+}

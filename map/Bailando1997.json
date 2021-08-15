@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 466919,
+    "urls": {
+        "jmcs://jd-contents/Bailando1997/Bailando1997_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/Bailando1997_ULTRA.webm",
+        "jmcs://jd-contents/Bailando1997/Bailando1997_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBailando1997_MID.webm",
+        "jmcs://jd-contents/Bailando1997/Bailando1997_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBailando1997_LOW.webm",
+        "jmcs://jd-contents/Bailando1997/Bailando1997_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBailando1997_HIGH.webm",
+        "jmcs://jd-contents/Bailando1997/Bailando1997.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2FBailando1997.ogg"
+    }
+}
